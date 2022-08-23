@@ -69,8 +69,8 @@
             <div class="row">
               <div class="col-lg-6">
                 <div class="d-flex flex-column h-100">
-                  <p class="mb-1 pt-2 text-bold">Built by developers</p>
-                  <h5 class="font-weight-bolder">Soft UI Dashboard</h5>
+                  <p class="mb-1 pt-2 text-bold">Espacio para limpieza de datos</p>
+                  <h5 class="font-weight-bolder">BROXIA-Intel UI</h5>
                   <p class="mb-5">
                     From colors, cards, typography to complex elements, you will
                     find the full documentation.

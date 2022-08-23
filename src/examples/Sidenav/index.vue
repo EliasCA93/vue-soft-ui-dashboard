@@ -11,8 +11,8 @@
         id="iconSidenav"
       ></i>
       <a class="m-0 navbar-brand" href="/">
-        <img :src="logo" class="navbar-brand-img h-100" alt="main_logo" />
-        <span class="ms-1 font-weight-bold">Soft UI Dashboard PRO</span>
+        <img src="broxia-logo.png" class="navbar-brand-img h-100" alt="broxia-logo" />
+        <span class="ms-1 font-weight-bold">BROXIA-Intel UI</span>
       </a>
     </div>
     <hr class="mt-0 horizontal dark" />

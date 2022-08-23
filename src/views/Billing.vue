@@ -143,7 +143,7 @@ import RankingList from "@/examples/Cards/RankingList.vue";
 import RankingListCard from "@/examples/Cards/RankingListCard.vue";
 
 export default {
-  name: "Billing",
+  name: "EDA",
   components: {
     NavPill,
     MasterCard,
